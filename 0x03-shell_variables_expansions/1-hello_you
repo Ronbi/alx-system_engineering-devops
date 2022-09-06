@@ -1,2 +1,2 @@
 #!/bin/bash
-echo hello user
+sudo hello_user
